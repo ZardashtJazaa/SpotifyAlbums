@@ -1,3 +1,3 @@
 # SpotifyAlbums
 
-<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:205%;position:relative;"><iframe width="360" height="738" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/7282a6"></iframe></div><p><a href="https://imgflip.com/gif/7282a6">via Imgflip</a></p></div>
+![7282a6](https://user-images.githubusercontent.com/108693860/204111833-c864a2c7-fa74-4248-81f9-a8456f4b3235.gif)
